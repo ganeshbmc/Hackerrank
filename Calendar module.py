@@ -1,3 +1,4 @@
+# Find day of the week when given a date in MM DD YYYY format
 import datetime
 import calendar
 
