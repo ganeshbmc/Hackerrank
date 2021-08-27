@@ -1,3 +1,6 @@
+# This is not a Hackerrank problem.
+# This is an assignment from IITM python course
+
 def matches_played(L):
     return len(L)
 
